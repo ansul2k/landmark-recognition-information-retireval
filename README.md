@@ -10,6 +10,6 @@ Also need to try resnet architecture.
 Dataset:
 * Cleaned
 * 220 classes
-* 40K+ classes
+* 40K+ images
 * Source: Wikimedia
 
